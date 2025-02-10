@@ -1,0 +1,58 @@
+# Ignore Gradle build directory
+/build/
+/.gradle/
+
+# Ignore IntelliJ IDEA-specific files
+/.idea/
+/*.iml
+/*.iws
+/out/
+*.log
+
+# Ignore compiled Java class files
+*.class
+*.jar
+*.war
+*.ear
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Ignore dependency caches
+**/lib/
+**/target/
+**/.gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.swn
+*.DS_Store
+
+# Ignore IDE and OS-specific files
+*.bak
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+Thumbs.db
+
+# Ignore local environment configuration
+.env
+*.properties.local
+
+# Ignore Lombok generated files
+delombok/
+
+# Ignore generated files
+/build/
+bin/
+gen/
+out/
+target/
