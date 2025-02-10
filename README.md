@@ -17,4 +17,4 @@
 
 ### 🛠 Additional Resources
 - **[Ollama Local Installation](https://github.com/adjiap/local_ollama_powershell_setup)** Guide – Prepared by Adji Arioputro
-
+- **[This Repo's Fork](https://github.com/eligosoftware/springAI)** - Ilgar Rasulov - here i will work on the project  **[Spring AI Full Course with Projects](https://www.youtube.com/watch?v=9Crrhz0pm8s)**
